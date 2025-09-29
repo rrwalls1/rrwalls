@@ -7,7 +7,7 @@ Bienvenido a mi perfil de GitHub. Soy un entusiasta de la programación y la cie
 ## 🚀 Sobre mí
 
 - 🎓 Interesado en matemáticas aplicadas, programación y análisis numérico.
-- 🧑‍💻 Trabajo principalmente con **MATLAB**, **Fortran**, **Pascal** y **C++**, pero me encanta explorar nuevos lenguajes y tecnologías.
+- 🧑‍💻 Trabajo principalmente con **MATLAB**, **Fortran**, **Pascal**, **R** y **C++**, pero me encanta explorar nuevos lenguajes y tecnologías.
 - 🌱 Actualmente aprendiendo más sobre inteligencia artificial y métodos numéricos.
 - 📚 Disfruto colaborando en proyectos open source y compartiendo conocimiento.
 
